@@ -28,3 +28,8 @@
 # 👀 Github
 
 > ¿Qué es lo que pienso hacer en Github? Pues, quiero compartir todos mis proyectos y conocimientos con ustedes para que puedan progresar como programadores.
+
+<br> <a href="https://github.com/SailsDev"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SailsDev&langs_count=3&theme=dark"> 
+</a> 
+
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=SailsDev%238888&color=red&style=for-the-badge)](https://discord.com/users/504891286826778624)
