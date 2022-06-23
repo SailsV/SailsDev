@@ -1,8 +1,8 @@
 # 👋 ¡Hola, yo soy Sails!
 
-- Discord: SailsDev#8888
+- Discord: ! Sails#2368
 
-- [Mi Servidor Oficial: World Developers](https://discord.gg/v4pWTzJEhC)
+- [Mi Servidor Oficial: Galactus - Soporte Oficial](https://discord.gg/ScRGX8nQF2)
 
 > Muchos me conocen, otros no, pero espero que me puedas conocer aquí :)
 
@@ -21,7 +21,6 @@
 > Tengo muchos proyectos y metas a que llegar. Siempre trato de ser una persona perseverante en lo que hago. Quiero...
 
 - 🔴 Aprender otros lenguajes (Python, C#, CSS, C+).
-- 🟡 Crear un bot que sea muy útil en Discord.
 - 🟢 Crear una NPM propia.
 - 🔵 Crea una comunidad fuera de la toxicidad y abusos.
 
@@ -29,7 +28,4 @@
 
 > ¿Qué es lo que pienso hacer en Github? Pues, quiero compartir todos mis proyectos y conocimientos con ustedes para que puedan progresar como programadores.
 
-<br> <a href="https://github.com/SailsDev"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SailsDev&langs_count=3&theme=dark"> 
-</a> 
-
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=SailsDev%238888&color=red&style=for-the-badge)](https://discord.com/users/504891286826778624)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=SailsDev%232368&color=red&style=for-the-badge)](https://discord.com/users/504891286826778624)
